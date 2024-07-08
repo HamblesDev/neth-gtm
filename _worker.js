@@ -1,5 +1,5 @@
 /********************
- * MODIFIED BY NETH *
+ * MODIFIED BY KENNETH *
  ********************/
 
 // source: https://github.com/zizifn/edgetunnel
@@ -680,7 +680,7 @@ Your browser does not support the audio element.
 <button onclick="window.location.href='/uuid'"><b>ℹ️ UUID Generator</b></button>
 <br>
 <span style="color: white; margin: 0; padding: 0; text-decoration: none; font-size: 11px">
-Modified by Neth
+Modified by Kenneth Perez
 </span>
 <br>
 <a style="color: #0061ff; text-decoration: none; font-size: 9px" href="https://github.com/zizifn/edgetunnel" target="_blank">· <b>view source code</b> ·</a>
