@@ -666,7 +666,7 @@ function html(){
 <body style="font-family: 'Poppins'; background-color: #222222; color: #eeeeee; width: 100%; height: 100vh; align-items: center; justify-content: center;">
 <center>
 <div style="width:100%; padding: 10px; text-align: center;">
-<img width="200" height="200" src="https://i.imgur.com/Uqtarpk.jpeg">
+<img width="200" height="200" src="https://i.ibb.co/kJ0Hg1t/20230624-105651.jpeg">
 <br><br>
 <audio autoplay controls loop>
   <source src="https://files.catbox.moe/nh0xzy.mp3" type="audio/mp3">
