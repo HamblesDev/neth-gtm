@@ -1,11 +1,11 @@
 {
-  "name": "neth-gtm",
+  "name": "polongdev",
   "version": "1.0.0",
   "description": "No description provided.",
   "main": "_worker.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "wrangler deploy _worker.js --name neth-gtm --compatibility-date 2024-06-28 --compatibility-flags \"nodejs_compat\""
+    "start": "wrangler deploy _worker.js --name polongdev --compatibility-date 2024-06-28 --compatibility-flags \"nodejs_compat\""
   },
   "author": "Kenneth Perez",
   "license": "ISC",
