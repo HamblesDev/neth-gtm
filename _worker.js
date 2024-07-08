@@ -7,7 +7,7 @@
 import { connect } from 'cloudflare:sockets';
 
 /* EDIT YOUR UUID */
-let userID = `e721bd4a-c44b-4c17-9f86-b14548342d87`
+let userID = `0477e400-121c-4423-ab32-0e780e495b34`
 /* IF YOU WANT TO GENERATE UUID,
 ENTER YOUR PAGES.DEV SITE THEN ADD /uuid
 Example: https://neth-gtm.pages.dev/uuid */
